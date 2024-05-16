@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science / Machine Learning / Management Consulting
 - 🌱 I’m currently looking for jobs!
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: mqin@andrew.cmu.edu (preferred) / menciuschin@gmail.com
+- 📫 How to reach me: menciuschin@gmail.com
 
 <!---
 MenciusChin/MenciusChin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
